@@ -33,6 +33,7 @@ Manually set a custom duration directly from the LeetCode page.
 | **Ctrl + Shift + U**         | Reset timer                                       |
 | **Ctrl+Shift+L**             | Toggle Block Comments (no default Shortcut in LC) |
 | *(customizable in manifest)* |                                                   |
+    In mac Ctrl is Cmd key 
 
  **Persistent Pause**
 Pausing the timer keeps the remaining time intact even if you switch tabs.
