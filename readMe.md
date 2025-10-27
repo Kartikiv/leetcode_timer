@@ -2,7 +2,8 @@
 
 A lightweight Chrome extension that automatically starts a **problem-solving timer on LeetCode**.
 Designed to help you improve time discipline and simulate real coding interview conditions.
-
+![Screenshot 2025-10-27 at 12.25.23 PM.png](ScreenShots/Screenshot%202025-10-27%20at%2012.25.23%E2%80%AFPM.png)
+![Screenshot 2025-10-27 at 12.26.06 PM.png](ScreenShots/Screenshot%202025-10-27%20at%2012.26.06%E2%80%AFPM.png)
 ---
 
 ## Features
